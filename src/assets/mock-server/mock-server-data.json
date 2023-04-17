@@ -1,0 +1,762 @@
+[
+  {
+    "id": 1,
+    "name": "A-Bomb",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 38,
+      "strength": 100,
+      "speed": 17,
+      "durability": 80,
+      "power": 24,
+      "combat": 64
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/1-a-bomb.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/1-a-bomb.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/1-a-bomb.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/1-a-bomb.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Abe Sapien",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 88,
+      "strength": 28,
+      "speed": 35,
+      "durability": 65,
+      "power": 100,
+      "combat": 85
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/2-abe-sapien.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/2-abe-sapien.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/2-abe-sapien.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/2-abe-sapien.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Abin Sur",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 50,
+      "strength": 90,
+      "speed": 53,
+      "durability": 64,
+      "power": 99,
+      "combat": 65
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/3-abin-sur.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/3-abin-sur.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/3-abin-sur.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/3-abin-sur.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Abomination",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 63,
+      "strength": 80,
+      "speed": 53,
+      "durability": 90,
+      "power": 62,
+      "combat": 95
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/4-abomination.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/4-abomination.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/4-abomination.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/4-abomination.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Abraxas",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 88,
+      "strength": 63,
+      "speed": 83,
+      "durability": 100,
+      "power": 100,
+      "combat": 55
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/5-abraxas.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/5-abraxas.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/5-abraxas.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/5-abraxas.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Absorbing Man",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 38,
+      "strength": 80,
+      "speed": 25,
+      "durability": 100,
+      "power": 98,
+      "combat": 64
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/6-absorbing-man.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/6-absorbing-man.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/6-absorbing-man.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/6-absorbing-man.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Adam Monroe",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 63,
+      "strength": 10,
+      "speed": 12,
+      "durability": 100,
+      "power": 100,
+      "combat": 64
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/7-adam-monroe.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/7-adam-monroe.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/7-adam-monroe.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/7-adam-monroe.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Adam Strange",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 69,
+      "strength": 10,
+      "speed": 33,
+      "durability": 40,
+      "power": 37,
+      "combat": 50
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/8-adam-strange.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/8-adam-strange.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/8-adam-strange.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/8-adam-strange.jpg"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Agent Bob",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 10,
+      "strength": 8,
+      "speed": 13,
+      "durability": 5,
+      "power": 5,
+      "combat": 20
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/10-agent-bob.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/10-agent-bob.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/10-agent-bob.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/10-agent-bob.jpg"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Agent Zero",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 75,
+      "strength": 28,
+      "speed": 38,
+      "durability": 80,
+      "power": 72,
+      "combat": 95
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/11-agent-zero.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/11-agent-zero.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/11-agent-zero.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/11-agent-zero.jpg"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Air-Walker",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 50,
+      "strength": 85,
+      "speed": 100,
+      "durability": 85,
+      "power": 100,
+      "combat": 40
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/12-air-walker.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/12-air-walker.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/12-air-walker.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/12-air-walker.jpg"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Ajax",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 56,
+      "strength": 48,
+      "speed": 35,
+      "durability": 80,
+      "power": 34,
+      "combat": 55
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/13-ajax.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/13-ajax.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/13-ajax.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/13-ajax.jpg"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Alan Scott",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 63,
+      "strength": 80,
+      "speed": 23,
+      "durability": 90,
+      "power": 100,
+      "combat": 32
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/14-alan-scott.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/14-alan-scott.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/14-alan-scott.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/14-alan-scott.jpg"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Alex Mercer",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 50,
+      "strength": 80,
+      "speed": 42,
+      "durability": 90,
+      "power": 100,
+      "combat": 50
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/15-alex-mercer.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/15-alex-mercer.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/15-alex-mercer.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/15-alex-mercer.jpg"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Alfred Pennyworth",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 63,
+      "strength": 10,
+      "speed": 17,
+      "durability": 10,
+      "power": 7,
+      "combat": 55
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/17-alfred-pennyworth.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/17-alfred-pennyworth.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/17-alfred-pennyworth.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/17-alfred-pennyworth.jpg"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Alien",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 50,
+      "strength": 28,
+      "speed": 42,
+      "durability": 90,
+      "power": 57,
+      "combat": 60
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/18-alien.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/18-alien.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/18-alien.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/18-alien.jpg"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Amazo",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 63,
+      "strength": 100,
+      "speed": 83,
+      "durability": 100,
+      "power": 100,
+      "combat": 100
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/20-amazo.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/20-amazo.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/20-amazo.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/20-amazo.jpg"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Angel",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 75,
+      "strength": 30,
+      "speed": 58,
+      "durability": 90,
+      "power": 100,
+      "combat": 75
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/23-angel.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/23-angel.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/23-angel.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/23-angel.jpg"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Angel",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 63,
+      "strength": 13,
+      "speed": 46,
+      "durability": 64,
+      "power": 28,
+      "combat": 42
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/24-angel.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/24-angel.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/24-angel.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/24-angel.jpg"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Angel Dust",
+    "gender": "Female",
+    "powerstats": {
+      "intelligence": 38,
+      "strength": 55,
+      "speed": 23,
+      "durability": 42,
+      "power": 17,
+      "combat": 30
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/25-angel-dust.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/25-angel-dust.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/25-angel-dust.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/25-angel-dust.jpg"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Angel Salvadore",
+    "gender": "Female",
+    "powerstats": {
+      "intelligence": 38,
+      "strength": 10,
+      "speed": 28,
+      "durability": 28,
+      "power": 56,
+      "combat": 60
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/26-angel-salvadore.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/26-angel-salvadore.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/26-angel-salvadore.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/26-angel-salvadore.jpg"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Animal Man",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 56,
+      "strength": 48,
+      "speed": 47,
+      "durability": 85,
+      "power": 73,
+      "combat": 80
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/28-animal-man.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/28-animal-man.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/28-animal-man.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/28-animal-man.jpg"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Annihilus",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 75,
+      "strength": 80,
+      "speed": 47,
+      "durability": 56,
+      "power": 59,
+      "combat": 64
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/29-annihilus.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/29-annihilus.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/29-annihilus.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/29-annihilus.jpg"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Ant-Man",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 100,
+      "strength": 18,
+      "speed": 23,
+      "durability": 28,
+      "power": 32,
+      "combat": 32
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/30-ant-man.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/30-ant-man.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/30-ant-man.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/30-ant-man.jpg"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Ant-Man II",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 75,
+      "strength": 18,
+      "speed": 17,
+      "durability": 40,
+      "power": 53,
+      "combat": 30
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/31-ant-man-ii.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/31-ant-man-ii.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/31-ant-man-ii.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/31-ant-man-ii.jpg"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Anti-Monitor",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 88,
+      "strength": 100,
+      "speed": 50,
+      "durability": 100,
+      "power": 100,
+      "combat": 90
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/32-anti-monitor.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/32-anti-monitor.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/32-anti-monitor.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/32-anti-monitor.jpg"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Anti-Venom",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 75,
+      "strength": 60,
+      "speed": 65,
+      "durability": 90,
+      "power": 96,
+      "combat": 84
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/34-anti-venom.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/34-anti-venom.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/34-anti-venom.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/34-anti-venom.jpg"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Apocalypse",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 100,
+      "strength": 100,
+      "speed": 33,
+      "durability": 100,
+      "power": 100,
+      "combat": 60
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/35-apocalypse.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/35-apocalypse.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/35-apocalypse.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/35-apocalypse.jpg"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Aquababy",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 10,
+      "strength": 16,
+      "speed": 12,
+      "durability": 14,
+      "power": 37,
+      "combat": 14
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/36-aquababy.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/36-aquababy.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/36-aquababy.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/36-aquababy.jpg"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Aqualad",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 63,
+      "strength": 44,
+      "speed": 42,
+      "durability": 75,
+      "power": 89,
+      "combat": 60
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/37-aqualad.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/37-aqualad.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/37-aqualad.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/37-aqualad.jpg"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Aquaman",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 81,
+      "strength": 85,
+      "speed": 79,
+      "durability": 80,
+      "power": 100,
+      "combat": 80
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/38-aquaman.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/38-aquaman.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/38-aquaman.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/38-aquaman.jpg"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Arachne",
+    "gender": "Female",
+    "powerstats": {
+      "intelligence": 50,
+      "strength": 48,
+      "speed": 50,
+      "durability": 70,
+      "power": 71,
+      "combat": 70
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/39-arachne.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/39-arachne.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/39-arachne.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/39-arachne.jpg"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Archangel",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 63,
+      "strength": 13,
+      "speed": 58,
+      "durability": 64,
+      "power": 35,
+      "combat": 42
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/40-archangel.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/40-archangel.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/40-archangel.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/40-archangel.jpg"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Arclight",
+    "gender": "Female",
+    "powerstats": {
+      "intelligence": 38,
+      "strength": 63,
+      "speed": 23,
+      "durability": 42,
+      "power": 52,
+      "combat": 70
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/41-arclight.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/41-arclight.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/41-arclight.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/41-arclight.jpg"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Ardina",
+    "gender": "Female",
+    "powerstats": {
+      "intelligence": 63,
+      "strength": 100,
+      "speed": 100,
+      "durability": 80,
+      "power": 100,
+      "combat": 25
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/42-ardina.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/42-ardina.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/42-ardina.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/42-ardina.jpg"
+    }
+  },
+  {
+    "id": 43,
+    "name": "Ares",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 75,
+      "strength": 82,
+      "speed": 35,
+      "durability": 80,
+      "power": 84,
+      "combat": 101
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/43-ares.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/43-ares.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/43-ares.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/43-ares.jpg"
+    }
+  },
+  {
+    "id": 44,
+    "name": "Ariel",
+    "gender": "Female",
+    "powerstats": {
+      "intelligence": 50,
+      "strength": 10,
+      "speed": 12,
+      "durability": 14,
+      "power": 94,
+      "combat": 28
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/44-ariel.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/44-ariel.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/44-ariel.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/44-ariel.jpg"
+    }
+  },
+  {
+    "id": 45,
+    "name": "Armor",
+    "gender": "Female",
+    "powerstats": {
+      "intelligence": 50,
+      "strength": 63,
+      "speed": 12,
+      "durability": 80,
+      "power": 55,
+      "combat": 54
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/45-armor.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/45-armor.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/45-armor.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/45-armor.jpg"
+    }
+  },
+  {
+    "id": 48,
+    "name": "Atlas",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 63,
+      "strength": 80,
+      "speed": 25,
+      "durability": 100,
+      "power": 98,
+      "combat": 50
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/48-atlas.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/48-atlas.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/48-atlas.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/48-atlas.jpg"
+    }
+  },
+  {
+    "id": 49,
+    "name": "Atlas",
+    "gender": "Male",
+    "powerstats": {
+      "intelligence": 63,
+      "strength": 100,
+      "speed": 42,
+      "durability": 100,
+      "power": 27,
+      "combat": 80
+    },
+    "images": {
+      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/49-atlas.jpg",
+      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/49-atlas.jpg",
+      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/49-atlas.jpg",
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/49-atlas.jpg"
+    }
+  }
+]
