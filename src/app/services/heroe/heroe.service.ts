@@ -15,16 +15,16 @@ export class HeroeService {
     return this.http.get<any>(this.baseUrl);
   }
 
-  get(value: string): Observable<Heroe> {
-    return this.http.get<any>(this.baseUrl + '/' + value);
+  get(id: string): Observable<Heroe> {
+    return this.http.get<any>(this.baseUrl + '/' + id);
   }
 
-  create(heroe: Heroe) {
-    return this.http.post<any>(this.baseUrl, heroe);
+  create(country: Heroe) {
+    return this.http.post<any>(this.baseUrl, country);
   }
 
-  update(id: string, heroe: Heroe): Observable<Heroe> {
-    return this.http.put<any>(this.baseUrl + '/' + id, heroe);
+  update(id: string, country: Heroe): Observable<Heroe> {
+    return this.http.put<any>(this.baseUrl + '/' + id, country);
   }
 
   delete(id: string) {
